@@ -1,0 +1,1 @@
+# coding-is-cool-2026-practice
